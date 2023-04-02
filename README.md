@@ -9,12 +9,10 @@
 
 
 <!-- <a href="https://www.codewars.com/users/yryryk"><img src="https://www.codewars.com/users/yryryk/badges/large"></a> -->
-[![](https://www.codewars.com/users/yryryk/badges/large)](https://www.codewars.com/users/yryryk)
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yryryk&theme=react)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yryryk&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yryryk&theme=react)  [![](https://www.codewars.com/users/yryryk/badges/large)](https://www.codewars.com/users/yryryk)
 
 
 
