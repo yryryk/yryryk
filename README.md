@@ -8,6 +8,12 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
+
+
+<h3 align="center">Получаю удовольствие реализуя идеи в коде 🙂</h3>
+
+
+
 [![](https://www.codewars.com/users/yryryk/badges/large)](https://www.codewars.com/users/yryryk)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yryryk&theme=react)    
@@ -15,8 +21,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yryryk&theme=react)
 
-
-<h3 align="center">Получаю удовольствие реализуя идеи в коде 🙂</h3>
 
 
 <!--
